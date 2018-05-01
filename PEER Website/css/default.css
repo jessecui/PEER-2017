@@ -170,7 +170,7 @@ p img { margin: 0; }
 p.lead {
    font: 20px/36px raleway-regular, sans-serif;
    margin-bottom: 18px;
-   color: ##6A727C;
+   color: #9FA5AD;
 }
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with
@@ -203,17 +203,16 @@ blockquote p {
    padding: 0;
    font-size: 18px;
    line-height: 30px;
-   color: #6C787A;
 }
 blockquote cite {
    display: block;
-   font-size: 16px;
+   font-size: 12px;
    font-style: normal;
    line-height: 18px;
 }
 blockquote cite:before { content: "\2014 \0020"; }
 blockquote cite a,
-blockquote cite a:visited { color: #485051; border: none }
+blockquote cite a:visited { color: #8B9798; border: none }
 
 /* ---------------------------------------------------------------------
 /*  Pull Quotes Markup
